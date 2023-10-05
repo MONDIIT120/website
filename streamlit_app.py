@@ -1,7 +1,7 @@
 import streamlit as st
 st.set_page_config(page_title="games", page_icon=":tada:",layout="wide")
 with st.container():
- st.subheader("HELLO, GOODMORNING :satisfied:,OH INCASE I DONT SE YA GOODAFTERNOON :hushed:,GOODEVENING:kissing: and GOODNIGHT :wave:")
+ st.subheader("HELLO, GOOD MORNING :satisfied:,OH INCASE I DON'T SE YA GOOD AFTERNOON :hushed:,GOOD EVENING:kissing: and GOOD NIGHT :wave:")
  st.title("GAMES TO BUY : ")
  st.write("WE LOVE VIDEO GAMES AND ARE EAGERLY WAITING TO SHOW YOU OUR MOST BELOVED VIDEO GAMES WITH THE LINK TO BUY THEM")
  st.write("Companies : ROCCKSTAR GAMES ,SONY, ACTIVISION")
